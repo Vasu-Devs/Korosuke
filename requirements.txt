@@ -1,0 +1,8 @@
+PyQt5
+PyQt5-sip
+
+# Optional developer tools
+black
+flake8
+pylint
+PyQt5
